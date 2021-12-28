@@ -5,7 +5,7 @@ setup(
     name="tanink",
     version="0.1.0",
     description="Writing software for Raspberry PI zero W and e-paper IT8951 screen",
-    author="Marion Vasseur",
+    author="?",
     keywords="writing",
     packages=find_packages(),
     python_requires=">=3.7",
